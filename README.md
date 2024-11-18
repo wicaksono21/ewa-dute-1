@@ -1,2 +1,2 @@
-# ewa1-standard-
-essay writing assistant-standard
+# ewa-DUTE-1
+essay writing assistant for DUTE version 1
